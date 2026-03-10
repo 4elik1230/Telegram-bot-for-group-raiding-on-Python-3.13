@@ -1,7 +1,7 @@
 # Telegram-bot-for-group-raiding-on-Python-3.13
 + Это Telegram бот для рейда групп на Python.
 + Этот бот умеет управлять группой удалено.
-+ Бот сделан на версии Python 3.13
++ Бот сделан на версии Python 3.13.
 [Установить Python 3.13](https://www.python.org/downloads/release/python-3130/)
 ___
 # что надо сделать перед запуском бота?
